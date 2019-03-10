@@ -122,7 +122,7 @@ dmypy.json
 .DS_Store
 
 # Python for Data Analysis example file
-/pydata-book
+/taewoo/pydata-book/
 
 # Pipenv file
 Pipfile
